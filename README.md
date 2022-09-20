@@ -15,7 +15,7 @@ https://clever-marshmallow-c9add0.netlify.app/
 
 ## Features
 
-- Add, View, Mark Complete, Delete Complete the Tasks
+- Add, View, Mark Complete, and Delete Tasks
 
 
 
